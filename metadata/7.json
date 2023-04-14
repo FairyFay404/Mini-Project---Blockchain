@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #7",
+    "description": "Princess Carrot on a confused day.",
+    "image": "ipfs://QmYQF8YgEEp9AWQ7EvEkcD98c8E5wBvZAeeHJKPPzwXY5J",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Dizzy"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Dark gray"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Hair bow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Stun"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Red"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Dark gray"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Light Orange"
+      }
+    ]
+  }

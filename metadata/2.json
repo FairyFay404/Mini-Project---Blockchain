@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #2",
+    "description": "Princess Carrot at the time of falling in love with someone.",
+    "image": "ipfs://QmVr2bgTwbfV8c3ULavR3i7SzctMm6TeA9DRSfr6821vzi",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Sea blue"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Hair bow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Sea blue"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Sea Blue"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Pink"
+      }
+    ]
+  }

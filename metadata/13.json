@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #13",
+    "description": "Power Pricess Carrot.",
+    "image": "ipfs://QmSwD1XEMPC2s1kfzumLmcvSnwoHJN5DhCPGjo6nNeJphL",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Evil"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Light peach"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Horn"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Light yellow"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Red"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "navy blue"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Light navy blue"
+      }
+    ]
+  }

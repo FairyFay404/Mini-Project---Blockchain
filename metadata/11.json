@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #11",
+    "description": "Princess Carrot in good mood.",
+    "image": "ipfs://Qme4S4t1LjCobTHuRTBCM9hmP3t6TKabD8so1hBteQMB78",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Sea blue"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Hair bow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Sea blue"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Light yellow"
+      }
+    ]
+  }

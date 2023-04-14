@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #1",
+    "description": "Princess Carrot on a casual day.",
+    "image": "ipfs://QmQHQMnFXdT6jfF7duSMZDP6Xv7rv9hVnqzZcJVRVEgQQL",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Light blue"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Hair bow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Light blue"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Green"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Brown"
+      }
+    ]
+  }

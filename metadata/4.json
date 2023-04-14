@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #4",
+    "description": "Princess Carrot on a moody day.",
+    "image": "ipfs://QmZ6ofFu78ZTsTNB16rc67S4PJzCa5k3NdbAJ3BT9xUocC",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Scowling"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Hair bow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Light indigo"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Indigo"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Light indigo"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Light brown"
+      }
+    ]
+  }

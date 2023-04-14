@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #17",
+    "description": "Princess Carrot took the throne at a young age.",
+    "image": "ipfs://QmWoSpv4p8Qqd3tATbsVn8zZf4zjuPPFPGWbh6wt1sbkUs",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Blank"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Fuchsia"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Light sea blue"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Indigo"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Light yellow"
+      }
+    ]
+  }

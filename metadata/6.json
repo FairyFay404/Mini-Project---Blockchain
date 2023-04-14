@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #6",
+    "description": "Princess Carrot on devil's day.",
+    "image": "ipfs://QmRrqPzaF7qgTDAALRzjBaTKxxTRxZb2KxWFBdrpaqsBHQ",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Horn"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Light Pink"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Red"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Red"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Milky pink"
+      }
+    ]
+  }

@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #5",
+    "description": "Princess Carrot on a sad day.",
+    "image": "ipfs://QmZWyhZLE2wi9s3bMRRMASDeQ2k3bksL5QRbLiWZ7GhNzR",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Cry"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Light brown"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Hair bow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Light orange"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Red"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Dark Brown"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Brown"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Light orange"
+      }
+    ]
+  }

@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #18",
+    "description": "Princess Carrot has worked hard to the point of decay.",
+    "image": "ipfs://QmSvJ16SUiEnxY1PwtYtxFUETgZ3xJo7BNwqvUSNfdWVby",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Shabby"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "White"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Plus"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Red"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Greed"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Milky pink"
+      }
+    ]
+  }

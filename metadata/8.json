@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #8",
+    "description": "Princess Carrot at that time wanted to say something but couldn't.",
+    "image": "ipfs://QmWwo83vhps1NxxQ5grkuBuySYvr9Qg5fvQpuZZsJkXZnm",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Stopper"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Light indigo"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Hair bow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "X"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Blue"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Indigo"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Light indigo"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Light indigo"
+      }
+    ]
+  }

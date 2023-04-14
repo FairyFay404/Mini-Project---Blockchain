@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #20",
+    "description": "Princess Carrot getting married.",
+    "image": "ipfs://QmaEogokpRVBeDmw4B6tK3y4n3fjxDrzJbAWwWGzXQmQpm",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Light yellow"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Crown"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Red"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "White"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Sea blue"
+      }
+    ]
+  }

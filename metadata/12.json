@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #12",
+    "description": "Princess Carrot on angry day.",
+    "image": "ipfs://QmTpCwTmN25NEb63jJtbNAGnyTGq2TJ8HVsHFEqYVJ4jqj",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Scowling"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Hair bow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Light purple"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Purple"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Light purple"
+      }
+    ]
+  }

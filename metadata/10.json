@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #10",
+    "description": "Princess Carrot in a moment of doubt about something.",
+    "image": "ipfs://QmQoaZubd4DDj5NcaUwZ1f1hAsnxFCaiVDUQTWuNPNDnUT",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Doubtful"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "?"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Green"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Purple"
+      }
+    ]
+  }

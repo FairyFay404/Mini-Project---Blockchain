@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #16",
+    "description": "Golden Princess Carrot.",
+    "image": "ipfs://QmVwSKCChYLyNtQjNQwwNDDfFiDBXwyze2VKHCKMXgJewH",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Wow"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Rabbit ear"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Gold"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Milky pink"
+      }
+    ]
+  }

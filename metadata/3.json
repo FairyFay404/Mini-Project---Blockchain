@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #3",
+    "description": "Princess Carrot on a natural day.",
+    "image": "ipfs://QmYNyv6XnxXWXpbnNGJphecxA9NSdFbuHrB1KoLFsuqRya",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Hair bow"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Light green"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Light green"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Light green"
+      }
+    ]
+  }

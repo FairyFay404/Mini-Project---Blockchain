@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #15",
+    "description": "Princess Carrot who is half rabbit.",
+    "image": "ipfs://QmQVVD6aMXW1efbC5J57Y1DaLWK96cE2rt3JeXNKuEbTzE",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Smile"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Neon green"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Rabbit ear"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Light pink"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Red"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "green"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Light yellow"
+      }
+    ]
+  }

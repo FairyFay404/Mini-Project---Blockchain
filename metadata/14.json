@@ -1,0 +1,43 @@
+{
+    "name": "Princess Carrot #14",
+    "description": "Princess Carrot who wants to be a rabbit.",
+    "image": "ipfs://QmaL3rYuCs4AozSdgRVcX9RzUrKzmrkq64Q6nXCvukZQhE",
+    "attributes": [
+      {
+        "trait_type": "Face",
+        "value": "Rabbit"
+      },
+      {
+        "trait_type": "Skin",
+        "value": "Flesh color"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Accessories",
+        "value": "Rabbit ear"
+      },
+      {
+        "trait_type": "Eye",
+        "value": "Pink"
+      },
+      {
+        "trait_type": "Earring",
+        "value": "Light blue"
+      },
+      {
+        "trait_type": "T-shirt",
+        "value": "Light blue"
+      },
+      {
+        "trait_type": "Carrot",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Background",
+        "value": "Sky"
+      }
+    ]
+  }
